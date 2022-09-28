@@ -12,9 +12,9 @@ The idea is to find a cost-performance ratio comparing methods and hardware for 
 ├── 📂 examples # Code examples to test out something quick.
 │   └── 🐍 python
 ├── LICENSE
-├── 📂 paper # Development files of the paper.
-│   ├── paper.pdf # Build of the LaTex paper.
-│   ├── paper.tex
-│   └── 📂 sections # Different sections of the paper.
+├── 📂 Technical Report # Development files of the paper.
+│   ├── main.pdf # Build of the LaTex paper.
+│   ├── main.tex # LaTex main file.
+│   └── 📂 Chapters # Different sections of the paper.
 └── README.md
 ```
